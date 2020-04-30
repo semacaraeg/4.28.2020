@@ -93,10 +93,7 @@ body {
   text-align: center;
 }
 
-.col-11 {
-  align-self: center;
-  justify-self: center;
-}
+
 
 .hidden-item {
   /* background-color: rgba(129, 148, 211, 0.849); */
@@ -140,6 +137,7 @@ body {
     font-weight: 900;
 }
 
+
 .footer-item {
     font-size: 13px;
     list-style: none;
@@ -155,6 +153,5 @@ body {
 }
 
 .footer-col-2 {
-    align-self: center;
-    justify-self: center;
+    text-align: left;
 }
